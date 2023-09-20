@@ -4,9 +4,8 @@
     color: white;
     background-color: maroon;
     height: 60px;
-    padding-top: 20px;
+    padding: 20px;
 }
-
 #title1 {
     font-size: 1.5rem;
     font-family: 'Indie+Flower';
@@ -15,6 +14,12 @@
     background-color: maroon;
     color: white;
 }
+#hero {
+    width: 40%;
+    height: 40%;
+    padding-top: 40px;
+    align-items: center;
+}
 #merchOne {
     width: 20%;
     padding: 40px;
@@ -22,6 +27,21 @@
 #merchTwo {
     width: 20%;
     padding: 40px;
+}
+#table {
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+#ghost {
+    padding: 40px;
+}
+#skull1 {
+    width: 60%;
+}
+#skull2 {
+    width: 60%;
+    padding-left: 15%;
 }
 body {
     width: 100%;
